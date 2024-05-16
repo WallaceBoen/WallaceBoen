@@ -7,14 +7,6 @@ I have a profound interest in technology and a dedication to solving complex pro
 
 My journey in life has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
 
-## Skills
-
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
@@ -22,5 +14,5 @@ My journey in life has led me to develop a passion for cybersecurity, and I am n
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Azure Web blog
+- Splunk SIEM Environment
