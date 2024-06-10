@@ -11,7 +11,7 @@ My journey in life has led me to develop a passion for cybersecurity, and I am n
 
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-[![Google Cyber Security Certificate]<img src="https://img.shields.io/badge/-Google%20Cyber%20Security%20Certificate-blue?&style=for-the-badge&logo=google&logoColor=white)]([https://www.google.com](https://www.credly.com/badges/22395273-f1db-41f6-a8e8-1dc9c50ac9d7/linked_in_profile)>
+<img src="https://img.shields.io/badge/-Google%20Cyber%20Security%20Certificate-blue?&style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
 ## Projects
