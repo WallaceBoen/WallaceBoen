@@ -11,7 +11,7 @@ My journey in life has led me to develop a passion for cybersecurity, and I am n
 
 <div>
 <a href="https://www.credly.com/earner/earned/badge/5a1e410b-e862-42cc-8ec3-4fbb8642ab49"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/-Google%20Cyber%20Security%20Certificate-blue?&style=for-the-badge&logo=google&logoColor=white" />
+<a href="https://www.credly.com/earner/earned/badge/22395273-f1db-41f6-a8e8-1dc9c50ac9d7"><img src="https://img.shields.io/badge/-Google%20Cyber%20Security%20Certificate-blue?&style=for-the-badge&logo=google&logoColor=white" /></a>
 </div>
 
 ## Projects
